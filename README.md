@@ -4,6 +4,9 @@ I’m a Junior Data Engineer with a background in forensic psychology, mental he
 
 From statistical analysis in R to building data pipelines in AWS, I enjoy working with data to uncover insights and drive meaningful change. I’m especially interested in cybersecurity, data analysis, and risk assessment, and I’m currently working on projects that bridge these areas.
 
-🚀 Always learning | 🔍 Data & Security Enthusiast | 📊 Psychology Meets Tech
 
 Let’s connect!
+✉️ https://www.linkedin.com/in/bonniepacker/
+
+
+🚀 Always learning | 🔍 Data & Security Enthusiast | 📊 Psychology Meets Tech
