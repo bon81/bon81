@@ -1,11 +1,8 @@
 ## 👋 Hi, I'm Bonnie!
 
-🔍  I’m a Junior Analyst | Aspiring Cyber Security Professional with a background in forensic psychology, mental health, and criminal justice. After completing the Northcoders Data Engineering boot camp, I’ve been diving into the world of data analytics and cybersecurity—two fields where I can blend technical problem-solving with real-world impact.
-
-📊  From statistical analysis in R to building data pipelines in AWS, I enjoy working with data to uncover insights and drive meaningful change. I’m especially interested in cybersecurity, data analysis, and risk assessment. I’m currently working on projects that bridge these areas.
+I'm a Data Engineer with a background in psychology and a growing passion for data security. I recently completed the Northcoders Data Engineering bootcamp, where I built cloud-native pipelines, transformed messy datasets, and developed a strong foundation in Python, SQL, and AWS. I’m particularly interested in building robust ETL systems that not only move data efficiently but do so with security in mind.
 
 
 ✉️ **Let’s connect!** | https://www.linkedin.com/in/bonniepacker/
 
 
-🚀 Data Analytics & Security Enthusiast |  🧩 Psychology Meets Tech
